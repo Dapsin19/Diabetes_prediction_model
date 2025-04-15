@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Model
 
-This project uses **Automated Machine Learning (AutoML)** with **PyCaret** to develop a binary classification model that predicts whether a patient is diabetic or not. The best-performing model was the **Random Forest Classifier**, selected based on accuracy, AUC, and interpretability.
+This project uses **Automated Machine Learning (AutoML)** with **PyCaret** to develop a binary classification model that predicts whether a patient is diabetic or not using a dataset from kaggle https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. The best-performing model was the **Random Forest Classifier**, selected based on accuracy, AUC, and interpretability.
 
 ---
 
