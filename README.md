@@ -67,7 +67,8 @@ Run the app with the following command:
 
 **bash**
 
-streamlit run app.py
+_streamlit run app.py_
+
 A browser window will automatically open with the app interface.
 
 📋 What the App Does
